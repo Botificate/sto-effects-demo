@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sto-effects-demo/static/css/main.2f27e0e0.css",
+    "main.js": "/sto-effects-demo/static/js/main.80c89c57.js",
+    "static/js/453.56f714f4.chunk.js": "/sto-effects-demo/static/js/453.56f714f4.chunk.js",
+    "static/media/r.png": "/sto-effects-demo/static/media/r.a6f8a9592428d08cbe75.png",
+    "index.html": "/sto-effects-demo/index.html",
+    "main.2f27e0e0.css.map": "/sto-effects-demo/static/css/main.2f27e0e0.css.map",
+    "main.80c89c57.js.map": "/sto-effects-demo/static/js/main.80c89c57.js.map",
+    "453.56f714f4.chunk.js.map": "/sto-effects-demo/static/js/453.56f714f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f27e0e0.css",
+    "static/js/main.80c89c57.js"
+  ]
+}
